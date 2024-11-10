@@ -31,7 +31,7 @@ class PrayertimeScreen extends StatelessWidget {
                       prayerTime: time.elementAt(index),
                       month:provider.parayertimeModel!.month,
                   );
-                },
+                },/////
             );
           }
         },
